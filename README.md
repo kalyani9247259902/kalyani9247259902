@@ -31,47 +31,8 @@
                 </svg>
               </span>
             </li>
-            <li class="menu-item">
-              <a href="#" class="menu-link">Menu Item</a>
-            </li>
-            <li class="menu-item has-collapsible">
-              <a href="#"><span></span>Menu Item </a>
-              <ul class="menu-child">
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-parent-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-parent-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-              </ul>
-            </li>
-            <li class="menu-item has-collapsible">
-              <a href="#"><span></span>Menu Item</a>
-              <ul class="menu-child">
-                <li class="menu-child-fruits"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-toys"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-hoodfriends"><a href="#">Sub Menu Item</a></li>
-              </ul>
-            </li>
-            <li class="menu-item has-collapsible">
-              <a href="#">Menu Item</a>
-              <ul class="menu-child">
-                <li class="menu-child-hood"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-fruit"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-bevarge"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-healthy vegi salad"><a href="#">Sub Menu Item</a></li>
-              </ul>
-            </li>
-            <li class="menu-item has-collapsible">
-              <a href="#"><span></span>Menu Item</a>
-              <ul class="menu-child">
-                <li class="menu-nutrition"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-vegetable soap"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-musley"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-ice cream"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-oats"><a href="#">Sub Menu Item</a></li>
+          tem</a>
+          nu Item</a></li>
               </ul>
             </li>
             <li class="menu-item">
