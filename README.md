@@ -1,0 +1,63 @@
+### Hi there 
+<!DOCTYPE html>
+    <html lang="en"> 	<head> 
+	 <meta charset="UTF-8"> 	
+
+ <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+	
+ <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+
+
+ <link rel="shortcut icon" href="favicon.ico"> 	 <!-- google fonts --> 	 
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet"> 
+
+	 <!-- font-family: 'Roboto Condensed', sans-serif; --> 	
+
+
+ <link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300;700&display=swap" rel="stylesheet"> 
+
+	 <!-- font-family: 'Oxygen', sans-serif; --> 	 <link rel="stylesheet" type="text/css" href="style.css" > 	
+ <!-- Twitter Card --> 	 <meta name="twitter:card" content="summary_large_image"> 	 <meta name="twitter:site" content="@shihabiiuc"> 	
+
+
+
+ <meta name="twitter:creator" content="@shihabiiuc"> 	 <meta name="twitter:title" 	
+
+ content="Your Name -Portfolio"> 	 
+
+
+<meta name="twitter:description" 	
+
+
+ content="This is a portfolio website template that is free to download and use. 
+
+You can edit this template and create your portfolio website in half an hour."> 	
+
+
+ <meta name="twitter:image" content="assets/images/social-media-thumbnail.jpg"> 	
+
+ <!-- Twitter Card End --> 	
+
+ <!-- Linkedin & Facebook Card --> 	
+
+ <meta property='og:title' 	 
+
+
+content="Your Name -rani" /> 	 <meta property='og:alphabet
+
+ content="assets/images/social-media-thumbnail.jpg" /> 	
+
+<meta property="og:type" content="website" /><!-- og:type is only for Facebook--> 	
+
+ <meta property='og:description' 	
+
+ content="This is a portfolio website template that is free to download and use.
+
+ You can edit this template and create your portfolio website in half an hour." /> 	 
+
+<meta property='og:url' content="assets/images/social-media-thumbnail.jpg" /> 	 <!-- Linkedin Card End --> 	 <title>Your Name -Portfolio</title> 	</head> 	<body> 	</body> 		<script src="script.js"></script> 	</body> </html>
+
+You don’t need any CSS for this startup code. But I have written some basic and sta
+
+
