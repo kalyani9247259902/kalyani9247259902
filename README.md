@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Sidebar menu With Sub-menus</title>
+    <title>Sidebar menu With Sub-menu</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -21,7 +21,7 @@
         <div class="menu-wrapper">
           <ul class="menu">
             <li class="menu-block">
-              <span class="close-menu">
+              <span class="close-buffee">
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20">
                   <path
                     fill="#252a32"
@@ -38,40 +38,40 @@
               <a href="#"><span></span>Menu Item </a>
               <ul class="menu-child">
                 <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
+                <li class="menu-parent-item"><a href="#">Sub Menu Item</a></li>
                 <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
+                <li class="menu-parent-item"><a href="#">Sub Menu Item</a></li>
                 <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
               </ul>
             </li>
             <li class="menu-item has-collapsible">
               <a href="#"><span></span>Menu Item</a>
               <ul class="menu-child">
+                <li class="menu-child-fruits"><a href="#">Sub Menu Item</a></li>
                 <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
+                <li class="menu-child-toys"><a href="#">Sub Menu Item</a></li>
                 <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
+                <li class="menu-child-hoodfriends"><a href="#">Sub Menu Item</a></li>
               </ul>
             </li>
             <li class="menu-item has-collapsible">
               <a href="#">Menu Item</a>
               <ul class="menu-child">
+                <li class="menu-child-hood"><a href="#">Sub Menu Item</a></li>
                 <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
+                <li class="menu-fruit"><a href="#">Sub Menu Item</a></li>
+                <li class="menu-bevarge"><a href="#">Sub Menu Item</a></li>
+                <li class="menu-healthy vegi salad"><a href="#">Sub Menu Item</a></li>
               </ul>
             </li>
             <li class="menu-item has-collapsible">
               <a href="#"><span></span>Menu Item</a>
               <ul class="menu-child">
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
-                <li class="menu-child-item"><a href="#">Sub Menu Item</a></li>
+                <li class="menu-nutrition"><a href="#">Sub Menu Item</a></li>
+                <li class="menu-vegetable soap"><a href="#">Sub Menu Item</a></li>
+                <li class="menu-musley"><a href="#">Sub Menu Item</a></li>
+                <li class="menu-ice cream"><a href="#">Sub Menu Item</a></li>
+                <li class="menu-oats"><a href="#">Sub Menu Item</a></li>
               </ul>
             </li>
             <li class="menu-item">
